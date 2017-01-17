@@ -1,0 +1,26 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    color: #2d3c49;
+    font-weight: 300;
+}
+h1 {
+    font-weight: 100;
+}
+h2 {
+    font-weight: 300;
+    color: #7d97ad;
+}
+h3, h4 {
+    font-weight: 500;
+}
+hr {
+    border: 2px solid #7d97ad;
+}
+.logo {
+    margin-top: 20px;
+}
+.portfolio-list img {
+    min-height: 236px;
+    margin: 0 auto;
+}
+
